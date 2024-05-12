@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AndreyPronchenko/NewsApp/static/css/main.92baa147.css",
+    "main.js": "/AndreyPronchenko/NewsApp/static/js/main.e9e52d6a.js",
+    "static/media/News.jpeg": "/AndreyPronchenko/NewsApp/static/media/News.9fe63b56d1af509f706b.jpeg",
+    "index.html": "/AndreyPronchenko/NewsApp/index.html",
+    "main.92baa147.css.map": "/AndreyPronchenko/NewsApp/static/css/main.92baa147.css.map",
+    "main.e9e52d6a.js.map": "/AndreyPronchenko/NewsApp/static/js/main.e9e52d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92baa147.css",
+    "static/js/main.e9e52d6a.js"
+  ]
+}
