@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 [NewsApi](https://newsapi.org/)
+<img src='![Снимок экрана 2024-05-14 в 13 24 12](https://github.com/AndreyPronchenko/NewsApp/assets/139353883/c9ddcfaf-d559-4edf-a19a-face79604a3e)
+'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
