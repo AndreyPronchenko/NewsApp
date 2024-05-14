@@ -1,6 +1,4 @@
 # Getting Started with Create React App
-![Uploading Снимок экрана 2024-05-14 в 13.24.12.png…]()
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
